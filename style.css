@@ -96,6 +96,7 @@ p {
   }
   .primary-link {
     margin: 0 20px;
+    display: block;
   }
   h2 {
     font-size: 32px;
